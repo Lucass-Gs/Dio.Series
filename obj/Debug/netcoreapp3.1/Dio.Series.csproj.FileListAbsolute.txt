@@ -1,0 +1,13 @@
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Users\Lucas\PraticandoCSharp\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache
